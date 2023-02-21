@@ -3,7 +3,7 @@ title: Choix graphiques
 ---
 ## Les couleurs
 
-Vous vous demandez peut-être pourquoi les couleurs proposées sont toutes aussi foncées.
+Vous vous demandez peut-être pourquoi les couleurs proposées sont toutes aussi foncées !
 
 Nous les avons sélectionnées pour qu'elles respectent un contraste maximum (de 7), utile ou nécessaire pour les personnes handicapées. 
 
