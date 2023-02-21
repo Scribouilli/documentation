@@ -40,7 +40,7 @@ Nous sommes preneur·euses de vos retours !
 
 Pour tester : Rendez-vous [sur Scribouilli !](https://scribouilli.github.io/scribouilli)
 
-Rendez-vous sur la prise de note collaborative pour [vos retours et questions.](https://mypads.framapad.org/p/scribouilli-beta-nq4zj7n8)
+Vous pouvez nous écrire à  [scribouilli@lechappeebelle.team](mailto=scribouilli@lechappeebelle.team)
 
 (Et par ici si vous voulez [accéder au code source.](https://github.com/Scribouilli/scribouilli) )
 
