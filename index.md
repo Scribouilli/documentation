@@ -9,6 +9,10 @@ Scribouilli est un outil développé par un groupe d'ami·es pour aider les pers
 
 Par exemple, ce site est fait grâce à Scribouilli 😁
 
+Pour le tester, [c'est par ici](https://scribouilli.github.io/scribouilli)
+
+<iframe title="Démo de Scribouilli, un outil pour créer son petit site facilement !" src="https://aperi.tube/videos/embed/b2e42943-5c9a-4b9e-bd3c-41efd9286d88" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
 ## Qu'est-ce que je peux faire avec ?
 
 Pour l'instant, Scribouilli permet d'avoir :
@@ -40,7 +44,7 @@ Nous sommes preneur·euses de vos retours !
 
 Pour tester : Rendez-vous [sur Scribouilli !](https://scribouilli.github.io/scribouilli)
 
-Vous pouvez nous écrire à  [scribouilli@lechappeebelle.team](mailto=scribouilli@lechappeebelle.team)
+Vous pouvez nous écrire à **scribouilli@lechappeebelle.team**
 
 (Et par ici si vous voulez [accéder au code source.](https://github.com/Scribouilli/scribouilli) )
 
