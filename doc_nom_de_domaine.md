@@ -4,7 +4,7 @@ title : Adresse personnalisée
 
 Il y a trois grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.
 
-On appelle cette adresse **"Nom de domaine"**
+On appelle cette adresse personnalisée : **"Nom de domaine"**
 
 ## Les 3 étapes
 
