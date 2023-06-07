@@ -30,7 +30,7 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
 4. Cliquez sur le bouton **"Ajouter un enregistrement"** en haut à droite de l'écran.
  * Pour **"Type"** choisir **"ALIAS"**
  * ne pas toucher à TTL, Unité et Nom
- * Dans **"Nom d'hôte"*, nous allons faire le lien avec Github : si l'adresse de votre Scribouili est : `votreIdentifiant.github.io/test-website-repo-3796`, dans le champ **"Nom d'hôte" indiquez** : `votreIdentifiant.github.io**.**`
+ * Dans **"Nom d'hôte"**, nous allons faire le lien avec Github : si l'adresse de votre Scribouili est : `votreIdentifiant.github.io/test-website-repo-3796`, dans le champ **"Nom d'hôte" indiquez** : `votreIdentifiant.github.io**.**`
  * Vérifiez bien que vous avez **fini avec un point** (ex: `votreIdentifiant.github.io.` )
  * Cliquez sur **Créer**
 
