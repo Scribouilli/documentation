@@ -1,9 +1,9 @@
 ---
 title: Crédits
 ---
-Scribouilli est un projet porté initialement par [l’Échappée Belle](https://lechappeebelle.team/)
-
 ## Contributeur·ices
+
+Scribouilli est un projet porté initialement par [l’Échappée Belle](https://lechappeebelle.team/)
 
 La bêta a vu le jour grâce à une semaine de bidouillage avec :
 
@@ -13,7 +13,7 @@ La bêta a vu le jour grâce à une semaine de bidouillage avec :
 
 La v1 s'est envolée grâce à Ana, Clara, David, Érick, Fanny, Maiana, Maïtané, Noémie et Yannick.
 
-## Hébergement
+## Hébergement des contenus
 
 Pour l'instant, le code des différents sites Scribouilli est hébergé chez [Microsoft Github](https://github.com)
 
