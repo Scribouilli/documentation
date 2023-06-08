@@ -25,18 +25,6 @@ Mais aussi :
 - qui permet de mettre en forme son contenu (avec du Markdown)
 - qui permet d'enrichir la mise en page avec du HTML 
 
-## Comment ça marche techniquement ?
-
-Scribouilli utilise GitHub Pages, qui est un site proposant à la fois : 
-- d'héberger les fichiers, 
-- de créer un site statique,
-- de lancer une moulinette qui publie le site en ligne.
-
-Scribouilli demande donc (pour l'instant) de se créer un compte GitHub.
-
-Ce compte : 
-- vous permet de **rester propriétaire des fichiers** qui composent votre site, et ce même si un jour Scribouilli n'existe plus ! 
-- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant, GitHub
 
 ## Et pour la suite ?
 
@@ -53,7 +41,5 @@ Vous pouvez nous écrire à **scribouilli@lechappeebelle.team**
 ## Et le modèle économique ?
 
 Scribouilli est développé jusqu'à présent sur de l'énergie bénévole.
-
-Pour mieux se rendre compte, au total nous avons travaillé 52 jours sur le projet (environ 8 jours par personne), ce qui représenterai au moins 31 000 € de budget.
 
 Peut-être qu'un jour nous ouvrirons un formulaire de don, ou peut-être pas. On verra !
