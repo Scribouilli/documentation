@@ -42,3 +42,17 @@ Nous avons choisi [la typographie Luciole.](http://www.luciole-vision.com/)
 Un choix de typographie qui fait par défaut de gros efforts de lisibilité et donc d'accessibilité, ça nous semblait chouette pour contribuer à un web plus accessible.
 
 Si le sujet vous intéresse, l'article de Anne-Sophie est super : [Accessibilité et typographie : qu’est-ce qu’une police de caractères accessible ?](https://blog.hello-bokeh.fr/2023/01/12/accessibilite-et-typographie-quest-ce-quune-police-de-caracteres-accessible/)
+
+
+## Comment ça marche techniquement ?
+
+Scribouilli utilise GitHub Pages, qui est un site proposant à la fois : 
+- d'héberger les fichiers, 
+- de créer un site statique,
+- de lancer une moulinette qui publie le site en ligne.
+
+Scribouilli demande donc (pour l'instant) de se créer un compte GitHub.
+
+Ce compte : 
+- vous permet de **rester propriétaire des fichiers** qui composent votre site, et ce même si un jour Scribouilli n'existe plus ! 
+- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant, GitHub
