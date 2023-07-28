@@ -1,7 +1,7 @@
 ---
 title: Exemples
 ---
-Petite liste de site réalisés avec Scribouilli !
+Petite liste de sites réalisés avec Scribouilli !
 
 - [Collectif HOP](http://collectifhop.fr/)
 - [Ateliers Tabernacle](https://atelierstabernacle.github.io/test-website-repo-3796/realisations.html)
