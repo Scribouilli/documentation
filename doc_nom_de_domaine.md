@@ -61,10 +61,11 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak (et 
 1. Dans la barre latérale de gauche, allez dans **"Pages"**
 1. Dans la section **"Custom domain"**, **entrez votre nom de domaine** (ex: adressedemonsite.fr ) et cliquez sur **Save**
 1. Juste en-dessous, cochez la case à coté de "Enforce HTTPS"
-1. Attendez plusieurs heures que le lien entre votre nom de domaine et votre site Scribouilli soit mis en place par Gandi.
-   1. Cette étape peut prendre du temps (maximum 48h)
+1. Attendez plusieurs heures que le lien entre votre nom de domaine et votre site Scribouilli soit mis en place par Infomaniak ou Gandi.
+   * Cette étape peut prendre du temps (maximum 48h)
+   * Vous allez voir apparaitre un message au fond jaune indiquant " www.adressedemonsite.fr is improperly configured"
 1. Si tout s'est bien passé et que les étapes ont été bien respectées, votre site Scribouilli est maintenant accessible depuis votre nom de domaine tout neuf ! Bravo !
-   1. Si ce n'est pas le cas, vous pouvez nous écrire à scribouilli@lechappeebelle.team
+   * Si ce n'est pas le cas, vous pouvez nous écrire à scribouilli@lechappeebelle.team
 
 
 
