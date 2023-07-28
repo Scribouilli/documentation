@@ -8,19 +8,36 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
 
 ## Les 3 étapes
 
-* Acheter votre nom de domaine (cette page explique comment le faire chez Gandi)
-* Faire les paramétrages qui vont bien chez votre fournisseur de nom de domaine (ici chez Gandi)
+* Acheter votre nom de domaine (cette page explique comment le faire chez Infomaniak ou Gandi)
+* Faire les paramétrages qui vont bien chez votre fournisseur de nom de domaine (ici chez Infomaniak ou Gandi)
 * Faire les paramétrages qui vont bien chez  Github
 
 
-## Acheter votre nom de domaine chez Gandi
+## Étape 1 : Acheter votre nom de domaine chez Infomaniak ou Gandi
 
-
-1. Rendez-vous sur [gandi.net](https://shop.gandi.net/fr/domain/suggest/d2495163-a057-41fd-a3ab-8bca338797fd?search=)
+1. Rendez-vous sur [infomaniak](https://www.infomaniak.com/fr) ou [gandi.net](https://shop.gandi.net/fr/domain/suggest/d2495163-a057-41fd-a3ab-8bca338797fd?search=)
 1. Vérifiez la disponibilité et le prix du nom de domaine que vous souhaitez (ex : adressedemonsite.fr )
-1. Suivez le processus d'achat, et créez-vous un compte au passage
+1. Suivez le processus d'achat en décochant toutes les options payantes supplémentaires si il y en a, et créez-vous un compte au passage
 
-## Paramétrer du coté de Gandi
+Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak (et moins de 20€/an chez Gandi)
+
+## Étape 2 : Paramétrer du coté d'Infomaniak
+
+1. Connectez-vous à [votre compte Infomaniak](https://login.infomaniak.com/)
+1. Descendez dans la page jusqu'à la section Produits > Web & Domaines > et cliquez sur Domaine
+1. Dans le bloc qui a pour titre votre nom de domaine (ex : adressedemonsite.fr), cliquez sur les 3 petits points en haut à droite > Tableau de bord
+1. Allez dans Actions rapides >  Modifier la zone DNS 
+1. cliquez sur "Ajouter une entrée"
+ * Pour **"Type"** choisir **"A"**
+ * ne pas toucher à Source
+ * Dans **"Cible"**, nous allons faire le lien avec Github : insérez ```185.199.110.153```
+ * Ne pas toucher à TTL
+ * Cliquez sur **Créer**
+
+
+
+
+## Étape 2 : Paramétrer du coté de Gandi
 
 1. Connectez-vous à [votre compte gandi](https://admin.gandi.net)
 1. Dans la barre latérale de gauche, allez dans **"Nom de domaine"**
@@ -36,7 +53,7 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
  * Vérifiez bien que vous avez **fini avec un point** (ex: `votreIdentifiant.github.io.` )
  * Cliquez sur **Créer**
 
-## Paramétrer du coté de Github Pages
+## Étape 3 : Paramétrer du coté de Github Pages
 
 1. Allez sur [https://scribouilli.github.io/scribouilli](https://scribouilli.github.io/scribouilli)
 1. Cliquez sur le lien **"Github"** en haut à droite de l'écran
