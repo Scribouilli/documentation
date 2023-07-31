@@ -1,3 +1,11 @@
 :root {
     --couleur-primaire : #993B1F;
 }
+
+iframe {
+    max-width: 100%;
+}
+
+iframe[width="560"] {
+    aspect-ratio: 16/9;
+}

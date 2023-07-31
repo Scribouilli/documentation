@@ -11,7 +11,7 @@ Par exemple, ce site est fait grâce à Scribouilli 😁
 
 Pour le tester, [c'est par ici](https://scribouilli.github.io/scribouilli)
 
-<iframe title="Démo de Scribouilli, un outil pour créer son petit site facilement !" src="https://aperi.tube/videos/embed/b2e42943-5c9a-4b9e-bd3c-41efd9286d88" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" max-width="560" height="315" frameborder="0"></iframe>
+<iframe title="Démo de Scribouilli, un outil pour créer son petit site facilement !" src="https://aperi.tube/videos/embed/b2e42943-5c9a-4b9e-bd3c-41efd9286d88" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" frameborder="0"></iframe>
 
 (il y a déjà eu de nombreuses améliorations depuis cette vidéo !)
 
