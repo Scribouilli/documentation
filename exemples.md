@@ -1,5 +1,6 @@
 ---
-title: Exemples
+title: "Exemples"
+order: 2
 ---
 Petite liste de sites réalisés avec Scribouilli !
 
