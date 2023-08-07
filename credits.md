@@ -1,5 +1,6 @@
 ---
-title: Crédits
+title: "Crédits"
+order: 5
 ---
 ## Contributeur·ices
 
