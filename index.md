@@ -12,9 +12,11 @@ Par exemple, ce site est fait grâce à Scribouilli 😁
 
 Pour le tester, [c'est par ici](https://scribouilli.github.io/scribouilli)
 
-<iframe title="Démo de Scribouilli, un outil pour créer son petit site facilement !" src="https://aperi.tube/videos/embed/b2e42943-5c9a-4b9e-bd3c-41efd9286d88" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" max-width="560" height="315" frameborder="0"></iframe>
+## Scribouilli en 4 minutes !
 
-(il y a déjà eu de nombreuses améliorations depuis cette vidéo !)
+<iframe title="Scribouilli en 4 minutes !" width="560" height="315" src="https://aperi.tube/videos/embed/e6e9fde5-1492-470a-8fc5-0f959a4b7ac0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+
 
 ## Qu'est-ce que je peux faire avec ?
 
@@ -27,6 +29,11 @@ Pour l'instant, Scribouilli permet d'avoir :
 Mais aussi :
 - qui permet de mettre en forme son contenu (avec du Markdown)
 - qui permet d'enrichir la mise en page avec du HTML 
+
+
+## La vidéo explicative
+
+<iframe title="Démo de Scribouilli, un outil pour créer son petit site facilement !" width="560" height="315" src="https://aperi.tube/videos/embed/cc297f82-c687-495a-9825-4297f8d7753f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 
 ## Et pour la suite ?
