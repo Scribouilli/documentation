@@ -6,13 +6,17 @@ order: 1
 
 ## Un outil pour créer un petit site facilement
 
-Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site" pour leur association** (ou leur activité professionnelle ou ce qu'iels veulent !).
+Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site"** pour 
+- leur association
+- leur usage personnel
+- leur activité professionnelle 
+- ou ce qu'iels veulent !
 
 Par exemple, ce site est fait grâce à Scribouilli 😁
 
 Pour le tester, [c'est par ici](https://scribouilli.github.io/scribouilli)
 
-## Scribouilli en 4 minutes !
+## Scribouilli, un site en 4 minutes !
 
 <iframe title="Scribouilli en 4 minutes !" width="560" height="315" src="https://aperi.tube/videos/embed/e6e9fde5-1492-470a-8fc5-0f959a4b7ac0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
