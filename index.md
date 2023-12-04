@@ -14,7 +14,7 @@ Scribouilli est un outil développé par un groupe d'ami·es pour aider les pers
 
 Par exemple, ce site est fait grâce à Scribouilli 😁
 
-Pour le tester, [c'est par ici](https://scribouilli.github.io/scribouilli)
+Pour le tester, [c'est par ici](https://atelier.scribouilli.org/)
 
 ## Scribouilli, un site en 4 minutes !
 
@@ -44,7 +44,7 @@ Mais aussi :
 
 Nous sommes preneur·euses de vos retours ! 
 
-Pour tester : Rendez-vous [sur Scribouilli !](https://scribouilli.github.io/scribouilli)
+Pour tester : Rendez-vous [sur Scribouilli !](https://atelier.scribouilli.org/)
 
 Vous pouvez nous écrire à **scribouilli@lechappeebelle.team**
 
