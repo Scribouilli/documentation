@@ -133,4 +133,4 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak (et 
 
 Si tout s'est bien passé et que les étapes ont été bien respectées, votre site Scribouilli est maintenant accessible depuis votre nom de domaine tout neuf ! Bravo !
 
-- Si ce n'est pas le cas, vous pouvez nous écrire à coucou@scribouilli.org 
+- Si ce n'est pas le cas, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) 
