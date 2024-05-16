@@ -79,8 +79,6 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak (et 
   - Vérifiez bien que vous avez **fini avec un point** (ex: `votreIdentifiant.github.io.` )
   - Cliquez sur **Créer**
 
----
-
 ## Étape 3 : Paramétrer du coté d'Infomaniak avec un site sur Gitlab ou Scribougit
 
 1. Connectez-vous à [votre compte Infomaniak](https://login.infomaniak.com/)
