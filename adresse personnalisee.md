@@ -120,6 +120,13 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak (et 
     - dans le champ **"Nom d'hôte" indiquez** : `votreIdentifiant.monpetitsite.org..`
     - Vérifiez bien que vous avez **fini avec un point** (ex: `votreIdentifiant.monpetitsite.org..` )
   - Cliquez sur **Créer**
+
+7. Cliquez sur "Ajouter une entrée"
+
+  - Pour **"Type"** choisir **"TXT"**
+  - Dans **"Valeur"**, remplir avec le contenu du champs **"Verification status** de Gitlab ou Scribougit, ça ressemble à un truc du genre `_gitlab-pages-verification-code.adressedemonsite.fr TXT gitlab-pages-verification-code=blablablaPleinDeCaracteres`
+  - Ne pas toucher à TTL
+  - Cliquez sur **Créer**
   
 
 ## C'est fini
