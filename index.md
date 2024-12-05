@@ -57,3 +57,4 @@ Vous pouvez nous écrire à **scribouilli@lechappeebelle.team**
 Scribouilli est développé jusqu'à présent sur de l'énergie bénévole.
 
 Peut-être qu'un jour nous ouvrirons un formulaire de don, ou peut-être pas. On verra ! 
+Finalement, vous pouvez nous [faire un don par ici](https://opencollective.com/scribouilli)
