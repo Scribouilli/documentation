@@ -3,15 +3,15 @@ title: "Adresse personnalisée"
 order: 3
 in_menu: true
 ---
-Il y a trois grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.
+Il y a **3 grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.**
 
 On appelle cette adresse personnalisée : **"Nom de domaine"**
 
 ## Les 3 étapes
 
-- Acheter votre nom de domaine (cette page explique comment le faire chez Infomaniak, un chouette fournisseur de nom de domaine)
-- Faire les paramétrages qui vont bien chez votre fournisseur de nom de domaine (ici chez Infomaniak)
-- Faire les paramétrages qui vont bien chez Gitlab, ScribouGit, ou Github
+- **Acheter votre nom de domaine** (cette page explique comment le faire chez Infomaniak, un chouette fournisseur de nom de domaine)
+- **Faire les paramétrages** qui vont bien **chez votre fournisseur de nom de domaine** (ici chez Infomaniak)
+- **Faire les paramétrages** qui vont bien chez **Gitlab, ScribouGit**, ou Github
 
 ## Étape 1 : Acheter votre nom de domaine chez Infomaniak
 
