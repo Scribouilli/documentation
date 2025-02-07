@@ -11,7 +11,9 @@ Pour nous faire des retours, c'est **coucou@scribouilli.org**
 
 Si vous avez cassé votre page Articles en faisant des tests, pas de panique !
 Pour revenir à zéro, remplacez le contenu de votre page par le code suivant en le copiant-collant :
+
 ```
+{% raw %}
 <aside>
   S'abonner via le <a href="{{ '/feed.xml' | relative_url }}">flux RSS</a>
   (<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a>)
@@ -27,4 +29,5 @@ Pour revenir à zéro, remplacez le contenu de votre page par le code suivant en
 </article>
 <hr />
 {% endfor %}
+{% endraw %}
 ```
