@@ -23,25 +23,25 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
 
 ## Étape 2-Gitlab/ScribouGit : Paramétrer du coté de ScribouGit et Gitlab Pages
 
-1. Allez sur [https://scribouilli.github.io/scribouilli](https://scribouilli.github.io/scribouilli)
+1. Allez sur [https://atelier.scribouilli.org/](https://atelier.scribouilli.org/)
 2. Cliquez sur le lien **"Sur git.scribouilli.org"** ou **"Sur gitlab.com"** en haut à droite de l'écran
-3. Dans la barre latérale de gauche, allez dans **"Deploy** puis **"Pages"**
-4. Décochez la case à coté de "Force HTTPS (requires valid certificates) "
+3. Dans la barre latérale de gauche, allez dans **"Deploy"** puis **"Pages"**
+4. Décochez la case à coté de "Force HTTPS (requires valid certificates)"
 5. Dans la partie "Domains", cliquez sur le bouton **"New domain"**
-6. Dans la page "New Pages Domain" qui s'ouvre, remplir le champ **" Domain "**, vérifiez que le "Certificate" est bien en bleu
-7. La page "Pages Domain" va vous donner des informations à mettre chez votre fournisseur de nom de domaine :
+6. Dans la page "New Pages Domain" qui s'ouvre, remplir le champ **"Domain"**, vérifiez que le "Certificate" est bien en bleu
+7. La page "Pages Domain" va vous donner des informations à mettre chez votre fournisseur de nom de domaine
 
 ## Étape 2-Github : Paramétrer du coté de Github
 
-1. Allez sur [https://scribouilli.github.io/scribouilli](https://scribouilli.github.io/scribouilli)
+1. Allez sur [https://atelier.scribouilli.org/](https://atelier.scribouilli.org/)
 2. Cliquez sur le lien **"Github"** en haut à droite de l'écran
 3. Allez dans l'onglet **"Settings"**
 4. Dans la barre latérale de gauche, allez dans **"Pages"**
 5. Dans la section **"Custom domain"**, **entrez votre nom de domaine** (ex: adressedemonsite.fr ) et cliquez sur **Save**
 6. Juste en-dessous, cochez la case à coté de "Enforce HTTPS"
-7. Attendez plusieurs heures que le lien entre votre nom de domaine et votre site Scribouilli soit mis en place par Infomaniak ou Gandi.
+7. Attendez plusieurs heures que le lien entre votre nom de domaine et votre site Scribouilli soit mis en place par Infomaniak.
   - Cette étape peut prendre du temps (maximum 48h)
-  - Vous allez voir apparaitre un message au fond jaune indiquant " www.adressedemonsite.fr is improperly configured"
+  - Vous allez voir apparaitre un message au fond jaune indiquant "www.adressedemonsite.fr is improperly configured"
 
 ## Étape 3-Gitlab/ScribouGit : Paramétrer du coté d'Infomaniak avec un site sur Gitlab ou Scribougit
 
@@ -52,9 +52,10 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
 5. Supprimez la ligne dont le Type est **"A"**
 6. Cliquez sur "Ajouter une entrée"
   - Pour **"Type"** choisir **"A"**
-  - ne pas toucher à Source
-  - Dans **"Cible"**, pour faire le lien avec Gitlab : insérez `35.185.44.232`
-  - Dans **"Cible"**, pour faire le lien avec Scribougit : insérez `176.9.171.107`
+  - Ne pas toucher à Source
+  - Dans **"Cible"**, pour faire le lien avec
+    - Gitlab : insérez `35.185.44.232`
+    - Scribougit : insérez `176.9.171.107`
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
 7. Cliquez sur "Ajouter une entrée"
@@ -71,7 +72,7 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
 4. Allez dans Actions rapides > Modifier la zone DNS
 5. Cliquez sur "Ajouter une entrée"
   - Pour **"Type"** choisir **"A"**
-  - ne pas toucher à Source
+  - Ne pas toucher à Source
   - Dans **"Cible"**, nous allons faire le lien avec Github : insérez ```185.199.110.153```
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
