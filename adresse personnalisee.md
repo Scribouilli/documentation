@@ -15,8 +15,8 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
 
 ## Étape 1 : Acheter votre nom de domaine chez Infomaniak
 
-1. Rendez-vous sur [infomaniak](https://www.infomaniak.com/fr)
-2. Vérifiez la disponibilité et le prix du nom de domaine que vous souhaitez (ex : adressedemonsite.fr )
+1. Rendez-vous sur [Infomaniak.com](https://www.infomaniak.com/fr)
+2. Vérifiez **la disponibilité et le prix** du nom de domaine que vous souhaitez (ex&nbsp;:&nbsp;adressedemonsite.fr)
 3. Suivez le processus d'achat en décochant toutes les options payantes supplémentaires si il y en a, et créez-vous un compte au passage
 
 Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
@@ -31,7 +31,7 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
 6. Dans la page "New Pages Domain" qui s'ouvre, remplir le champ **" Domain "**, vérifiez que le "Certificate" est bien en bleu
 7. La page "Pages Domain" va vous donner des informations à mettre chez votre fournisseur de nom de domaine :
 
-## Étape 2-Github : Paramétrer du coté de Github Pages
+## Étape 2-Github : Paramétrer du coté de Github
 
 1. Allez sur [https://scribouilli.github.io/scribouilli](https://scribouilli.github.io/scribouilli)
 2. Cliquez sur le lien **"Github"** en haut à droite de l'écran
@@ -74,11 +74,11 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
   - ne pas toucher à Source
   - Dans **"Cible"**, nous allons faire le lien avec Github : insérez ```185.199.110.153```
   - Ne pas toucher à TTL
-  - Cliquez sur **Créer****
+  - Cliquez sur **Créer**
 
   
 
-## C'est fini
+## C'est fini !
 
 Si tout s'est bien passé et que les étapes ont été bien respectées, votre site Scribouilli est maintenant accessible depuis votre nom de domaine tout neuf ! Bravo ! 🎉
 
