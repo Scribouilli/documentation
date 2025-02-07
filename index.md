@@ -46,7 +46,7 @@ Nous sommes preneur·euses de vos retours !
 
 Pour tester : Rendez-vous [sur Scribouilli !](https://atelier.scribouilli.org/)
 
-Vous pouvez nous écrire à **scribouilli@lechappeebelle.team**
+Vous pouvez nous écrire à **coucou@scribouilli.org**
 
 (Et par ici si vous voulez [accéder au code source.](https://github.com/Scribouilli/scribouilli) )
 
