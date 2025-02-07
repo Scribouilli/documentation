@@ -12,7 +12,6 @@ Petite liste de sites réalisés avec Scribouilli !
 - [Mathilde Saliou](https://mathildesaliou.com/)
 - [Le site de lahminewski](https://lahminewski.github.io/note/) avec [le code CSS](https://github.com/Lahminewski/note/blob/main/assets/css/custom.css) qu'il a rajouté pour avoir son style particulier
 - [Ensemble APERTURA](https://ensembleapertura.github.io/test-website-repo-3796/)
-- [Ateliers Tabernacle](https://atelierstabernacle.github.io/test-website-repo-3796.html)
 - [Cordes en duo](https://cordesenduo.com/)
 - [Petits bouts de code](https://ynote.github.io/petits-bouts-de-code/)
 - [Maiana Lenoir](https://mana-spirit.fr/)
