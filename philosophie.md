@@ -25,7 +25,7 @@ Pour toutes ces raisons, nous nous sommes dit qu'un outil tel que Scribouilli se
 
 Nous avons conscience que le Markdown nécessite un effort d'apprentissage pour la plupart des utilisateur·ices de Scribouilli.
 
-Nous vous demandons cela car c'est pour nous le meilleur compromis pour que : 
+Cela reste cependant pour nous le meilleur compromis afin que : 
 - vous n'ayez pas à apprendre à coder si vous ne le souhaitez pas,
 - vous puissiez mettre en forme votre texte avec les éléments principaux (titres, liste, gras, images, liens…),
 - le contenu de votre site reste accessible à tous·tes et sur tous les types d'écrans
