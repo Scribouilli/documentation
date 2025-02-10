@@ -1,1 +1,9 @@
-remote_theme: scribouilli/mimoza
+collections:
+  projects:
+    output: true
+plugins:
+  - jekyll-feed
+  - jekyll-git-hash
+theme: mimoza
+scribouilli: true
+baseurl: /fichiers_pour_maia
