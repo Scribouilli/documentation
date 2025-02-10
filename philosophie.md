@@ -1,6 +1,6 @@
 ---
 title: "Philosophie"
-order: 5
+order: 2
 in_menu: true
 ---
 
