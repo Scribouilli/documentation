@@ -108,7 +108,7 @@ Votre site devrait maintenant être accessible à tous·tes.
 
 ---
 
-## Aide : Page Articles
+## Restaurer la page Articles
 
 Si vous avez cassé votre page Articles en faisant des tests, pas de panique !
 Pour revenir à zéro, remplacez le contenu de votre page par le code suivant en le copiant-collant :
