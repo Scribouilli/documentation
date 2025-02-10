@@ -58,9 +58,9 @@ Scribouilli est développé jusqu'à présent sur de l'énergie bénévole.
 
 Vous pouvez nous **[faire un don par ici](https://opencollective.com/scribouilli)** 
 
-## Exemples
+## Exemples de sites
 
-Petite liste de sites réalisés avec Scribouilli !
+Petite liste de sites réalisés avec Scribouilli :
 
 -  [Repair Café Jacou Clapiers](https://newick.github.io/repaircafejacouclapiers/)
 - [La compagnie de cirque Une paillette dans l'oeil](https://julie-bertho-julie-bertho-b51c485cf1978686e3352a27574db65e39313.monpetitsite.org/)
@@ -97,4 +97,4 @@ Pour l'instant, le code des différents sites Scribouilli est hébergé soit :
 - chez [Gitlab](https://gitlab.com)
 - chez nous sur [ScribouGit](https://git.scribouilli.org)
 
-Et le code de Scribouilli est hébergé sur [Microsoft Github](https://github.com/Scribouilli)
+Et le code de Scribouilli est hébergé chez [Microsoft Github](https://github.com/Scribouilli)
