@@ -16,10 +16,10 @@ La v1 s'est envolée grâce à Ana, Clara, David, Érick, Fanny, Maiana, Maïtan
 
 ## Hébergement des contenus
 
-Pour l'instant, le code des différents sites Scribouilli est hébergé chez [Microsoft Github](https://github.com)
-
-NB : À un moment, on pourra aussi l'héberger chez [Gitlab](https://gitlab.com)
-
+Pour l'instant, le code des différents sites Scribouilli est hébergé soit : 
+- chez [Microsoft Github](https://github.com)
+- chez [Gitlab](https://gitlab.com)
+- chez nous sur [ScribouGit](https://git.scribouilli.org)
 
 ## Choix graphiques
 
@@ -47,13 +47,13 @@ Si le sujet vous intéresse, l'article de Anne-Sophie est super : [Accessibilit�
 
 ## Comment ça marche techniquement ?
 
-Scribouilli utilise GitHub Pages, qui est un site proposant à la fois : 
+Scribouilli utilise GitHub Pages ou Gitlab Pages, qui sont des sites proposant à la fois : 
 - d'héberger les fichiers, 
 - de créer un site statique,
 - de lancer une moulinette qui publie le site en ligne.
 
-Scribouilli demande donc (pour l'instant) de se créer un compte GitHub.
+Scribouilli demande donc (pour l'instant) de se créer un compte GitHub ou Gitlab ou ScribouGit.
 
 Ce compte : 
 - vous permet de **rester propriétaire des fichiers** qui composent votre site, et ce même si un jour Scribouilli n'existe plus ! 
-- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant, GitHub
+- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant.
