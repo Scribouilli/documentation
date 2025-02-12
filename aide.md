@@ -90,6 +90,43 @@ Si ce n'est pas le cas, vous pouvez nous écrire à [coucou@scribouilli.org](mai
 
 
 ---
+## Ajouter un encart
+
+ <p class="encart">Un incroyable encart !</p>
+
+Il est possible d'ajouter un encart mettant en avant du texte dans votre site : 
+1. en  intégrant le code suivant dans votre page et
+2. en modifiant le texte entre les balises `<p class="encart">` et `</p>`
+
+```
+ <p class="encart">Un incroyable encart !</p>
+
+```
+
+Si vous souhaitez mettre plusieurs paragraphes dans votre encart, vous pouvez utiliser le code suivant et mettre un paragraphe entre chaque `<p>`
+
+```
+ <div class="encart">
+<p>Le 1er paragraphe ou juste une phrase</p>
+<p>Le second paragraphe</p>
+</div>
+```
+
+---
+
+## Ajouter un bouton
+
+ <a href="#" class="bouton">Mon joli bouton</a>
+
+Il est possible d'ajouter un bouton dans votre site : 
+1. en  intégrant le code suivant dans votre page et
+2. en modifiant le texte entre les balises ` <a href="#" class="bouton">` et `</a>`
+3. en remplaçant le `#` par le lien de la page vers laquelle vous souhaitez que votre bouton emmène
+
+```
+ <a href="#" class="bouton">Mon joli bouton</a>
+```
+
 ---
 
 ## Restaurer la page Articles
