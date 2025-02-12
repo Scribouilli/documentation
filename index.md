@@ -1,12 +1,13 @@
 ---
-title: "Accueil"
+title: "Scribouilli"
 order: 1
 ---
-# Scribouilli
 
  <p class="encart">Nouveauté : Ajoutez un encart ou un bouton sur votre site ! Tout est expliqué dans  <a href="https://scribouilli.org/aide.html">la page Aide.</a> </p>
 
-## Un outil pour créer un petit site facilement
+<p class="encart">Mise à jour accessibilité : Si vous avez une page Articles, désactivez et réactivez la page dans les Paramètres de l'atelier.</p>
+
+# Un outil pour créer un petit site facilement
 
 Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site"** pour 
 - leur association
