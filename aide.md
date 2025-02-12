@@ -22,7 +22,7 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
 2. Vérifiez **la disponibilité et le prix** du nom de domaine que vous souhaitez (ex&nbsp;:&nbsp;adressedemonsite.fr)
 3. Suivez le processus d'achat en décochant toutes les options payantes supplémentaires si il y en a, et créez-vous un compte au passage
 
-Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak
+Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak.
 
 ### Étape 2-Gitlab/ScribouGit : Paramétrer du coté de ScribouGit et Gitlab Pages
 
