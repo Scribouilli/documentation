@@ -22,6 +22,7 @@ On appelle cette adresse personnalisée : **"Nom de domaine"**
 2. Vérifiez **la disponibilité et le prix** du nom de domaine que vous souhaitez (ex&nbsp;:&nbsp;adressedemonsite.fr)
 3. Suivez le processus d'achat en décochant toutes les options payantes supplémentaires si il y en a, et créez-vous un compte au passage
 
+---
 
 Pour info, un nom de domaine en .fr coûte **moins de 8€/an** chez Infomaniak.
 
@@ -51,15 +52,12 @@ Ensuite, les étapes ne sont pas les mêmes selon que vous utilisiez Gitlab, Scr
 5. Cliquez sur "Ajouter un enregistrement"
   - Pour **"Type"** choisir **"A"**
   - Ne pas toucher à Source
-  - Dans **"Cible"**, pour faire le lien avec
-     - Gitlab : insérez `35.185.44.232`
-     - Scribougit : insérez `176.9.171.107`
+  - Dans **"Cible"**, pour Scribougit : insérez `176.9.171.107` ; pour Gitlab : insérez `35.185.44.232`
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
 6. Cliquez sur "Ajouter un enregistrement"
   - Pour **"Type"** choisir **"TXT"**
-  - Dans **"Valeur"**, remplir avec le contenu du champ **"Verification status"** de Gitlab ou Scribougit
-     - qui ressemble à `_gitlab-pages-verification-code.adressedemonsite.fr TXT gitlab-pages-verification-code=blablablaPleinDeCaracteres`
+  - Dans **"Valeur"**, remplir avec le contenu du champ **"Verification status"** de Gitlab ou Scribougit, qui ressemble à `_gitlab-pages-verification-code.adressedemonsite.fr TXT gitlab-pages-verification-code=blablablaPleinDeCaracteres`
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
 
@@ -68,7 +66,9 @@ Ensuite, les étapes ne sont pas les mêmes selon que vous utilisiez Gitlab, Scr
 
 Si tout s'est bien passé et que les étapes ont été bien respectées, votre site Scribouilli est maintenant accessible depuis votre nom de domaine tout neuf ! Bravo !🎉
 
-Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soit effectif. Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble.
+Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soit effectif. 
+
+Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble.
 
 ---
 
@@ -106,4 +106,6 @@ Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soi
 
 Si tout s'est bien passé et que les étapes ont été bien respectées, votre site Scribouilli est maintenant accessible depuis votre nom de domaine tout neuf ! Bravo ! 🎉
 
-Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soit effectif. Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble.
+Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soit effectif. 
+
+Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble.
