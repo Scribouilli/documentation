@@ -31,7 +31,7 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak.
 3. Dans la barre latérale de gauche, allez dans **"Deploy"** puis **"Pages"**
 4. Décochez la case à coté de "Force HTTPS (requires valid certificates)"
 5. Dans la partie "Domains", cliquez sur le bouton **"New domain"**
-6. Dans la page "New Pages Domain" qui s'ouvre, remplir le champ **"Domain"**, vérifiez que le "Certificate" est bien en bleu
+6. Dans la page "New Pages Domain" qui s'ouvre, remplir le champ **"Domain & Settings"**, vérifiez que le "Certificate" est bien en bleu
 7. La page "Pages Domain" va vous donner des informations à mettre chez votre fournisseur de nom de domaine
 
 ### Étape 2-Github : Paramétrer du coté de Github
@@ -50,20 +50,20 @@ Pour info, un nom de domaine en .fr coûte moins de 8€/an chez Infomaniak.
 
 1. Connectez-vous à [votre compte Infomaniak](https://login.infomaniak.com/)
 2. Descendez dans la page jusqu'à la section Produits > Web & Domaines > et cliquez sur Domaine
-3. Dans le bloc qui a pour titre votre nom de domaine (ex : adressedemonsite.fr), cliquez sur les 3 petits points en haut à droite > Tableau de bord
-4. Allez dans Actions rapides > Modifier la zone DNS
-5. Supprimez la ligne dont le Type est **"A"**
-6. Cliquez sur "Ajouter une entrée"
+3. Dans le bloc qui a pour titre votre nom de domaine (ex : adressedemonsite.fr), cliquez sur les 3 petits points en haut à droite > Modifier la zone DNS
+4. Supprimez les carrés dont le Type est **"A"** (visible en bas à gauche, l'étiquette en bas à droite sera "Adresse web")
+5. Cliquez sur "Ajouter un enregistrement"
   - Pour **"Type"** choisir **"A"**
   - Ne pas toucher à Source
   - Dans **"Cible"**, pour faire le lien avec
-    - Gitlab : insérez `35.185.44.232`
-    - Scribougit : insérez `176.9.171.107`
+     - Gitlab : insérez `35.185.44.232`
+     - Scribougit : insérez `176.9.171.107`
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
-7. Cliquez sur "Ajouter une entrée"
+6. Cliquez sur "Ajouter un enregistrement"
   - Pour **"Type"** choisir **"TXT"**
-  - Dans **"Valeur"**, remplir avec le contenu du champs **"Verification status** de Gitlab ou Scribougit, ça ressemble à un truc du genre `_gitlab-pages-verification-code.adressedemonsite.fr TXT gitlab-pages-verification-code=blablablaPleinDeCaracteres`
+  - Dans **"Valeur"**, remplir avec le contenu du champ **"Verification status"** de Gitlab ou Scribougit
+     - qui ressemble à `_gitlab-pages-verification-code.adressedemonsite.fr TXT gitlab-pages-verification-code=blablablaPleinDeCaracteres`
   - Ne pas toucher à TTL
   - Cliquez sur **Créer**
 
