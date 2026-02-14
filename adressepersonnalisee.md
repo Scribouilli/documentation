@@ -4,13 +4,11 @@ order: 5
 in_menu: false
 ---
 
-# Avoir une adresse personnalisée
-
 Il y a **3 grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.**
 
 On appelle cette adresse personnalisée : **"Nom de domaine"**
 
-### Les 3 étapes
+## Les 3 étapes
 
 1. **Acheter votre nom de domaine** (cette page explique comment le faire chez Infomaniak, un chouette fournisseur de nom de domaine)
 2. **Faire les paramétrages** qui vont bien **chez votre fournisseur de nom de domaine** (ici chez Infomaniak)
