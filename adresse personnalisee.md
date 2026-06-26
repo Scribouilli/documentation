@@ -1,9 +1,10 @@
 ---
 title: "Adresse personnalisée"
 order: 5
-in_menu: false
+in_menu: true
 ---
 Il y a **3 grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.**
+TEST
 
 On appelle cette adresse personnalisée : **"Nom de domaine"**
 
@@ -105,4 +106,4 @@ Si tout s'est bien passé et que les étapes ont été bien respectées, votre s
 
 Si ce n'est pas le cas, il faut parfois attendre 24h avant que le changement soit effectif. 
 
-Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble.
+Si ça ne fonctionne pas après ce délai, vous pouvez nous écrire à [coucou@scribouilli.org](mailto:coucou@scribouilli.org) pour que l'on essaie de comprendre le souci ensemble. 
