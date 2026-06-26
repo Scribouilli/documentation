@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Un outil pour créer un petit site facilement
 
-TEST ICI
+TEST ICI - Est-ce qu'on voit la page Test Loutres dans le menu ?
 
 Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site"** pour 
 - leur association
