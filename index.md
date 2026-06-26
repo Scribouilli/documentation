@@ -1,12 +1,8 @@
 ---
 title: "Scribouilli"
 order: 1
+in_menu: true
 ---
-
- <p class="encart">Nouveauté : Ajoutez un encart ou un bouton sur votre site ! Tout est expliqué dans  <a href="https://scribouilli.org/aide.html">la page Aide.</a> </p>
-
-<p class="encart">Mise à jour accessibilité : Si vous avez une page Articles, désactivez et réactivez la page dans les Paramètres de l'atelier.</p>
-
 # Un outil pour créer un petit site facilement
 
 Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site"** pour 
@@ -100,4 +96,4 @@ Pour l'instant, le code des différents sites Scribouilli est hébergé soit :
 - chez [Gitlab](https://gitlab.com)
 - chez nous sur [ScribouGit](https://git.scribouilli.org)
 
-Et le code de Scribouilli est hébergé chez [Microsoft Github](https://github.com/Scribouilli)
+Et le code de Scribouilli est hébergé chez [Microsoft Github](https://github.com/Scribouilli) 
