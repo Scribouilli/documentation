@@ -5,8 +5,6 @@ in_menu: true
 ---
 # Un outil pour créer un petit site facilement
 
-TEST en cliquant en même temps
-
 Scribouilli est un outil développé par un groupe d'ami·es pour aider les personnes qui veulent **"juste créer un petit site"** pour 
 - leur association
 - leur usage personnel
