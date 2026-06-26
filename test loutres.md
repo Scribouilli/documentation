@@ -15,4 +15,4 @@ Moi aussi !
 Bizarre comme c'est bizarre 
 On va enregistrer en même temps 
 
-   Maiana 
+ Maïtané 
