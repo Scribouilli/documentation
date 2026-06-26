@@ -1,7 +1,7 @@
 ---
 title: "Test loutres"
 order: 6
-in_menu: true
+in_menu: false
 ---
 # Ici c'est pour tester
 

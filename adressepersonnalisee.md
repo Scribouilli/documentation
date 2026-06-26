@@ -3,7 +3,6 @@ title: "Adresse personnalisée"
 order: 5
 in_menu: false
 ---
-
 Il y a **3 grandes étapes pour avoir votre site Scribouilli derrière votre adresse personnalisée.**
 
 On appelle cette adresse personnalisée : **"Nom de domaine"**

@@ -3,7 +3,6 @@ title: "Aide"
 order: 2
 in_menu: true
 ---
-
 ## Avoir une adresse personnalisée
 
 On appelle aussi cette adresse personnalisée : **"Nom de domaine"**

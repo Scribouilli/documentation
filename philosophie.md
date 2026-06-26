@@ -3,7 +3,6 @@ title: "Philosophie"
 order: 3
 in_menu: true
 ---
-
 ## Pourquoi Scribouilli ?
 
 Lorsque vous êtes à l'aise en informatique, que vous savez bidouiller ou que faire des sites internet est votre métier, il arrive régulièrement que l'on vous demande un coup de main, par exemple, pour réussir à imprimer un document, ou pour **réaliser un petit site internet**. 
