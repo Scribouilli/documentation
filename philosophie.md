@@ -7,6 +7,8 @@ in_menu: true
 
 Lorsque vous êtes à l'aise en informatique, que vous savez bidouiller ou que faire des sites internet est votre métier, il arrive régulièrement que l'on vous demande un coup de main, par exemple, pour réussir à imprimer un document, ou pour **réaliser un petit site internet**. 
 
+## Je n'ai qu'une ...
+
 Or cela est moins aisé qu'on le croit. On a souvent le choix à ce moment là entre :
 - réaliser artisanalement le site, et ne pas pouvoir laisser la personne pleinement autonome sans devoir lui apprendre à coder (!!),
 - proposer un outil difficile à utiliser,
@@ -69,5 +71,4 @@ Scribouilli demande donc (pour l'instant) de se créer un compte GitHub ou Gitla
 
 Ce compte : 
 - vous permet de **rester propriétaire des fichiers** qui composent votre site, et ce même si un jour Scribouilli n'existe plus ! 
-- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant.
-
+- nous permet de **garder Scribouilli comme un petit outil léger**, qui se repose sur un second outil existant. 
