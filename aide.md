@@ -7,7 +7,7 @@ in_menu: true
 
 On appelle aussi cette adresse personnalisée : **"Nom de domaine"**
 
-<a href="https://scribouilli.org/adressepersonnalisee.html" class="bouton">Découvrir comment avoir mon adresse personnalisée</a>
+<a href="https://scribouilli.org/adresse personnalisee.html" class="bouton">Découvrir comment avoir mon adresse personnalisée</a>
 
 ---
 ## Ajouter un encart
@@ -72,5 +72,4 @@ Pour revenir à zéro, remplacez le contenu de votre page par le code suivant en
 <hr />
 {% endfor %}
 {% endraw %}
-```
-
+``` 
